@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(50 50 50);
+}
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 7rem;
+    letter-spacing: 17px;
+    color: ghostwhite
+}
+.letter {
+    display: inline-block;
+    text-shadow: black 0 0 3px;
+}
+.letter:nth-of-type(5) {
+    margin-right: 30px;
+}
+#effect1 {
+    display: flex;
+    justify-content: center;
+}
+footer {
+    font-size: small;
+    text-align: center;
+    color:beige;
+    font-family: 'Roboto', sans-serif;
+}
